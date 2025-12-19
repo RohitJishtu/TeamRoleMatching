@@ -1,7 +1,7 @@
 {
   "mentors": [
     {
-      "name": "Mark Meloon",
+      "name": "Mark",
       "role": "Principal Data Scientist",
       "expertise": ["Data Scientist", "Classical ML"],
       "X Factor": ["Communicator", "speaker", "writer"],
@@ -9,49 +9,49 @@
       "experience_years": 25
     },
     {
-      "name": "Mohan Gollapalli",
+      "name": "Mohan",
       "role": "Sr Staff Data Scientist",
       "X Factor": ["technicaldebth", "humble statsmaster", "DataScience","ML Engineer"],
       "expertise": ["Data Scientist", "Software Engineer"],
       "experience_years": 20
     },
     {
-      "name": "Sibanjan Das",
+      "name": "Das",
       "role": "Senior Manager",
       "X Factor": ["Leader", "Socialskills" ],
       "expertise": ["Team leadership", "Data Scientist"],
       "experience_years": 20
     },
     {
-      "name": "Padmanabam Tiruamala",
+      "name": "Tiruamala",
       "X Factor": ["expert", "platformguru", "humble" ],
       "role": "Manager Software Engineering",
       "expertise": ["Software Engineer", "Platform Expert"],
       "experience_years": 15
     },
     {
-      "name": "Srinivas Sadaneveni",
+      "name": "Srinivas",
       "X Factor" :  ["humble", "dataknowledge","humble"] ,
       "role": "Sr Staff MLE",
       "expertise": ["Data Expert", "Data Engineer"],
       "experience_years": 25
     },
     {
-      "name": "Rohit Jishtu",
+      "name": "Rohit",
       "X Factor" :  ["Communicator", "confident", "dataknowledge" , "moderatecoder"] ,
       "role": "Manager Machine Learning",
       "expertise": ["Leadership","Machine Learning","AI Engineer","Communicator"],
       "experience_years": 14
     },
     {
-      "name": "Ganesh Srinivasan",
+      "name": "Srinivasan",
       "role": "Product Manager",
       "X Factor": ["confident", "communicator"],                 
       "expertise": ["Product", "Leadership","Communicator"],
       "experience_years": 25
     },
     {
-      "name": "Luke Hagstrand",
+      "name": "Luke Skywalker",
       "role": "Head of Department",
       "phd": true,
       "X Factor": ["legend", "leder","technicaldebth"],
@@ -59,7 +59,7 @@
       "experience_years": 30
     },
     {
-      "name": "Julia Nova",
+      "name": "Rohan Team",
       "X Factor" :  ["Communicator", "calm", "empathy" , "moderatecoder"] ,
       "phd": true,
       "role": "Senior Manager Machine Learning",
@@ -67,7 +67,7 @@
       "experience_years": 15
     },
     {
-      "name": "Peter Halliday Team",
+      "name": "Peter",
       "role": "AI Ops and MLOPS",
       "phd": true,
       "X Factor": ["BestCoder", "SystemDesign", "lessresponsive"],

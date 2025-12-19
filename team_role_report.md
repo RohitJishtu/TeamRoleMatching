@@ -75,7 +75,7 @@ The fascinating contradiction between your methodical, verification-focused furn
 
 ---
 
-### Suman Sarkar
+### Debashish Sarkar
 
 - **Primary role:** ML Engineer
 - **Secondary role:** Dev Ops Engineer
@@ -98,7 +98,7 @@ Your fascinating contradiction between data science tool preference and infrastr
 
 ---
 
-### Dedeepya Kunapareddy
+### Devi K
 
 - **Primary role:** AI Engineer
 - **Secondary role:** ML Engineer
@@ -121,7 +121,7 @@ The fascinating contradiction between your ServiceNow platform excitement and yo
 
 ---
 
-### Dinesh Gedda
+### Dinkar Ram
 
 - **Primary role:** ML Engineer
 - **Secondary role:** Dev Ops Engineer
