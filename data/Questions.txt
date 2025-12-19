@@ -1,0 +1,215 @@
+Question 0: Your Name
+
+Type: Short answer
+Required: Yes
+
+
+🔧 SECTION 1: TECHNICAL PREFERENCES
+Section Title: Part 1: Technical Preferences (4 questions)
+
+Question 1: Your Ideal Tech Stack
+Which technology ecosystem makes you most excited?
+
+Type: Multiple choice
+Required: Yes
+Options:
+
+Python data science libraries (Pandas, NumPy, Scikit-learn, Matplotlib)
+ML production tools (PyTorch, TensorFlow, MLflow, Kubeflow, ONNX)
+AI/LLM frameworks (LangChain, OpenAI/Anthropic APIs, Vector DBs, Pinecone)
+Infrastructure tools (Docker, Kubernetes, Terraform, Jenkins, Prometheus)
+Full-stack development (React, Node.js, PostgreSQL, REST APIs, Git)
+ServiceNow platform (Studio, Flow Designer, Integration Hub, Service Portal)
+
+
+
+
+Question 2: Problem You'd Love to Solve
+Which challenge sounds most interesting to tackle?
+
+Type: Multiple choice
+Required: Yes
+Options:
+
+Analyzing 5 years of sales data to predict next quarter's revenue
+Reducing ML model inference time from 500ms to 50ms
+Building a conversational AI assistant that accesses company knowledge
+Automating deployment to handle 100 releases per day with zero downtime
+Architecting a microservices platform that scales to millions of users
+Automating IT incident management to reduce resolution time by 70%
+
+
+
+
+Question 3: Your Learning Queue
+What's next on your learning list?
+
+Type: Multiple choice
+Required: Yes
+Options:
+
+Advanced statistics, causal inference, or Bayesian methods
+Model quantization, distributed training, or GPU optimization
+Fine-tuning LLMs, RAG architectures, or multi-agent systems
+Kubernetes CKA certification, GitOps, or observability patterns
+System design interviews, design patterns, or clean architecture
+ServiceNow CIS certification, ITIL v4, or advanced scripting
+
+
+
+
+Question 4: Daily Work Preference
+What would your perfect workday look like?
+
+Type: Multiple choice
+Required: Yes
+Options:
+
+Morning: Exploratory data analysis | Afternoon: Building predictive models
+Morning: Optimizing model training | Afternoon: Setting up model serving infrastructure
+Morning: Designing AI agent workflows | Afternoon: Integrating LLM APIs
+Morning: Reviewing monitoring dashboards | Afternoon: Automating infrastructure
+Morning: Code reviews and architecture discussions | Afternoon: Feature development
+Morning: Configuring workflows | Afternoon: Building custom ServiceNow applications
+
+
+
+
+👤 SECTION 2: PERSONALITY & WORK STYLE
+Section Title: Part 2: Your Work Style (4 questions)
+
+Question 5: The Restaurant Scenario 🍽️
+You're at a new restaurant with a complex menu. How do you decide?
+
+Type: Multiple choice
+Required: Yes
+Options:
+
+Study the menu thoroughly, ask about ingredients, analyze reviews on my phone
+Find what's popular and efficient, optimize for taste/price ratio
+Ask the waiter for recommendations and have a conversation about specialties
+Check if online ordering works, see if they have a mobile app
+Look at the structure of the menu, see how dishes are organized
+Ask about their ordering process and how the kitchen workflow operates
+
+
+
+
+Question 6: The IKEA Furniture Test 🪑
+You just bought IKEA furniture. Your approach?
+
+Type: Multiple choice
+Required: Yes
+Options:
+
+Lay out all pieces, count everything, read instructions twice before starting
+Figure out the optimal assembly order to minimize time and effort
+Watch a YouTube tutorial or ask someone who's built it before
+Check if there's an app or better instructions available online
+Study the diagram to understand the overall structure first
+Follow the step-by-step instructions exactly as written
+
+
+
+
+Question 7: The Lost in City Scenario 🗺️
+You're lost in an unfamiliar city. What's your instinct?
+
+Type: Multiple choice
+Required: Yes
+Options:
+
+Pull up Google Maps, check reviews, analyze walking times
+Find the fastest route considering traffic, time of day, and distance
+Ask a local or use a translation app to communicate
+Check if my phone has signal, ensure maps work offline, verify battery life
+Understand the city layout, find the main landmarks to orient myself
+Look for official signs, information desks, or established pathways
+
+
+
+
+Question 8: The Group Project Chaos 👥
+Your team project is disorganized. How do you help?
+
+Type: Multiple choice
+Required: Yes
+Options:
+
+Create a spreadsheet tracking everyone's progress and deadlines
+Identify bottlenecks and suggest ways to work more efficiently
+Set up a group chat and ensure everyone communicates their needs
+Create shared documents, automated reminders, and collaboration tools
+Break the project into clear modules with defined interfaces
+Establish a clear workflow with roles, responsibilities, and approval steps
+
+
+
+
+🎨 SECTION 3: CREATIVE THINKING
+Section Title: Part 3: Problem-Solving Approach (4 questions)
+
+Question 9: Your Zombie Apocalypse Strategy 🧟
+The zombie apocalypse starts. What's your survival plan?
+
+Type: Multiple choice
+Required: Yes
+Options:
+
+Analyze zombie behavior patterns, map safe zones, track resources over time
+Optimize fortification efficiency, calculate resource consumption rates
+Form alliances with different skill groups, establish communication networks
+Set up automated defenses, backup power systems, and emergency protocols
+Design a modular shelter system that can expand and adapt
+Establish clear roles, supply chains, and a governance structure
+
+
+
+
+Question 10: You Inherit a Garden 🌱
+You inherit a neglected garden. What excites you most about it?
+
+Type: Multiple choice
+Required: Yes
+Options:
+
+Measuring soil quality, tracking plant growth, analyzing what thrives where
+Designing an optimal irrigation system that uses minimal water
+Creating a companion planting system where plants help each other
+Setting up automated watering, lighting, and temperature controls
+Planning the garden layout for maximum space utilization and aesthetics
+Creating a planting schedule with seasonal rotations and maintenance routines
+
+
+
+
+Question 11: Time Machine Scenario ⏰
+You get a one-way time machine. What interests you?
+
+Type: Multiple choice
+Required: Yes
+Options:
+
+Going to the future to see what scientific discoveries have been made
+Going to the future to see how technology has been optimized
+Going to the future to see how humans and AI interact
+Going to the future to see what infrastructure exists (flying cars? teleportation?)
+Going to the future to see what new programming paradigms exist
+Going to the future to see how organizations and processes have evolved
+
+
+
+
+Question 12: Your Superpower Choice 🦸
+If you could have one superpower for work, what would it be?
+
+Type: Multiple choice
+Required: Yes
+Options:
+
+Instantly understand any dataset and see hidden patterns
+Make any system run at 10x speed with no additional resources
+Speak and understand any language (human or computer) perfectly
+Never have system failures or downtime
+Write bug-free code instantly that scales infinitely
+Automate any repetitive process with a snap of your fingers
