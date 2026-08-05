@@ -21,8 +21,9 @@ This tool reads responses from a Google Form (linked to a Google Sheet), analyze
 
 1. In Google Cloud Console, enable **Google Sheets API** (and optionally **Drive API**).
 2. Create a **Service account** and generate a **JSON key**.
-3. Download it into this folder as `service_account.json`.
+3. Save it locally as `data/service_account.json` (see `data/service_account.example.json`).
 4. Share the Google Sheet with the service account's `client_email` as **Viewer**.
+5. **Never commit** `data/service_account.json`, `.env`, raw responses, or live reports — they are gitignored.
 
 ### 3. Ollama (local model)
 
@@ -44,13 +45,17 @@ pip install -r requirements.txt
 ### 5. Configure Environment
 
 ```bash
-export GOOGLE_SERVICE_ACCOUNT_FILE="service_account.json"      # or full path
+cp .env.example .env   # then edit .env locally
+# or export vars:
+export GOOGLE_SERVICE_ACCOUNT_FILE="data/service_account.json"
 export GOOGLE_SHEET_ID="YOUR_SHEET_ID_HERE"
-export GOOGLE_WORKSHEET_NAME="Form Responses 1"                # default form sheet name
-export OUTPUT_MARKDOWN_FILE="team_role_report.md"              # optional
-export OLLAMA_MODEL="llama3"                                  # or any model you pulled
-# export OLLAMA_BASE_URL="http://localhost:11434"              # optional override
+export GOOGLE_WORKSHEET_NAME="Form Responses 1"
+export OUTPUT_MARKDOWN_FILE="team_role_report.md"
+export OLLAMA_MODEL="llama3"
+# export OLLAMA_BASE_URL="http://localhost:11434"
 ```
+
+Anonymized fixtures for local demos (no real PII): `data/samples/`.
 
 ## Run
 

@@ -23,13 +23,14 @@ This tool is ideal for:
 
 ├── app.py                         # Main entry point to run the role matching flow
 ├── team_role_quiz_analysis.py     # Core logic for quiz analysis and role mapping
-├── team_role_report.md            # Sample generated report
+├── .env.example                   # Env var template (copy to .env locally)
 ├── README_TEAM_ROLE_QUIZ.md       # Quiz-specific explanation and context
 ├── requirements.txt               # Python dependencies
-├── data/                          # Input quiz data (CSV / JSON)
+├── data/                          # Local inputs (gitignored PII) + samples/
+├── data/samples/                  # Anonymized demo fixtures (safe to commit)
+├── data/service_account.example.json
 ├── src/                           # Core processing modules
 ├── utils/                         # Helper utilities
-├── Notes.txt                      # Design notes and ideas
 ├── TASK_LEFT.txt                  # Open tasks and improvements
 └── allfiles.txt                   # File index / reference
 
@@ -103,11 +104,9 @@ Outputs and reports are generated locally in markdown or text format.
 
 * Individual role summaries
 * Team-level role distribution insights
-* Example output available in:
+* Example anonymized output: `data/samples/team_role_report.sample.md`
 
-  * `team_role_report.md`
-
-These outputs are intentionally simple so they can be shared in meetings or copied into docs.
+Generated reports and raw responses stay local (gitignored) so participant PII is not committed.
 
 ---
 

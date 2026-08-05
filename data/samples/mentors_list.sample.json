@@ -1,0 +1,154 @@
+{
+  "mentors": [
+    {
+      "name": "Mentor Alpha",
+      "role": "Principal Data Scientist",
+      "expertise": [
+        "Data Scientist",
+        "Classical ML"
+      ],
+      "X Factor": [
+        "Communicator",
+        "speaker",
+        "writer"
+      ],
+      "phd": true,
+      "experience_years": 25
+    },
+    {
+      "name": "Mentor Beta",
+      "role": "Sr Staff Data Scientist",
+      "X Factor": [
+        "technicaldebth",
+        "humble statsmaster",
+        "DataScience",
+        "ML Engineer"
+      ],
+      "expertise": [
+        "Data Scientist",
+        "Software Engineer"
+      ],
+      "experience_years": 20
+    },
+    {
+      "name": "Mentor Gamma",
+      "role": "Senior Manager",
+      "X Factor": [
+        "Leader",
+        "Socialskills"
+      ],
+      "expertise": [
+        "Team leadership",
+        "Data Scientist"
+      ],
+      "experience_years": 20
+    },
+    {
+      "name": "Mentor Delta",
+      "X Factor": [
+        "expert",
+        "platformguru",
+        "humble"
+      ],
+      "role": "Manager Software Engineering",
+      "expertise": [
+        "Software Engineer",
+        "Platform Expert"
+      ],
+      "experience_years": 15
+    },
+    {
+      "name": "Mentor Epsilon",
+      "X Factor": [
+        "humble",
+        "dataknowledge",
+        "humble"
+      ],
+      "role": "Sr Staff MLE",
+      "expertise": [
+        "Data Expert",
+        "Data Engineer"
+      ],
+      "experience_years": 25
+    },
+    {
+      "name": "Mentor Zeta",
+      "X Factor": [
+        "Communicator",
+        "confident",
+        "dataknowledge",
+        "moderatecoder"
+      ],
+      "role": "Manager Machine Learning",
+      "expertise": [
+        "Leadership",
+        "Machine Learning",
+        "AI Engineer",
+        "Communicator"
+      ],
+      "experience_years": 14
+    },
+    {
+      "name": "Mentor Eta",
+      "role": "Product Manager",
+      "X Factor": [
+        "confident",
+        "communicator"
+      ],
+      "expertise": [
+        "Product",
+        "Leadership",
+        "Communicator"
+      ],
+      "experience_years": 25
+    },
+    {
+      "name": "Mentor Theta",
+      "role": "Head of Department",
+      "phd": true,
+      "X Factor": [
+        "legend",
+        "leder",
+        "technicaldebth"
+      ],
+      "expertise": [
+        "Strategist",
+        "Director"
+      ],
+      "experience_years": 30
+    },
+    {
+      "name": "Mentor Iota",
+      "X Factor": [
+        "Communicator",
+        "calm",
+        "empathy",
+        "moderatecoder"
+      ],
+      "phd": true,
+      "role": "Senior Manager Machine Learning",
+      "expertise": [
+        "Leadership",
+        "Machine Learning",
+        "Communicator"
+      ],
+      "experience_years": 15
+    },
+    {
+      "name": "Mentor Kappa",
+      "role": "AI Ops and MLOPS",
+      "phd": true,
+      "X Factor": [
+        "BestCoder",
+        "SystemDesign",
+        "lessresponsive"
+      ],
+      "expertise": [
+        "AI Engineer",
+        "ML Ops",
+        "Software Engineering"
+      ],
+      "experience_years": 20
+    }
+  ]
+}

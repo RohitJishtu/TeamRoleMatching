@@ -415,7 +415,8 @@ if st.sidebar.button("🔄 Refresh & Re‑run Analysis", type="primary"):
 st.sidebar.markdown("---")
 st.sidebar.markdown("### Environment")
 st.sidebar.code(f"OLLAMA_MODEL: {OLLAMA_MODEL or 'Not set'}")
-st.sidebar.code(f"GOOGLE_SHEET_ID: {GOOGLE_SHEET_ID or 'Not set'}")
+_sheet_status = "set" if GOOGLE_SHEET_ID else "Not set"
+st.sidebar.code(f"GOOGLE_SHEET_ID: {_sheet_status}")
 st.sidebar.markdown(f"Report file: `{OUTPUT_MARKDOWN_FILE}`")
 
 # Load report markdown for parsing

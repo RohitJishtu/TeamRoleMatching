@@ -1,6 +1,35 @@
-TeamGame/
+# Secrets & credentials
 .env
-/.env
-/Present
-/team_role_report.md
+.env.*
+!.env.example
+**/service_account.json
+**/credentials.json
+**/credentials*.json
+**/client_secret*.json
+*.pem
+*.key
+*.p12
+# Keep committed placeholders
+!data/service_account.example.json
+!data/samples/
 
+# PII / generated personal data (keep locally, never commit)
+data/responses_raw.json
+data/analysis_cache.json
+data/mentors_list.json
+team_role_report.md
+Notes.txt'
+Notes.txt
+
+# Local / OS / tooling
+.DS_Store
+TeamGame/
+Present/
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+.idea/
+.vscode/
